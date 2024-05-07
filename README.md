@@ -3,7 +3,7 @@
 Dataset: bike_buyers from Kaggle
 
 1. Use working sheet to duplicate original dataset
-2. Perform data cleaning on the working sheet
+2. Perform data cleansing on the working sheet
 3. Create Povit Table based on the working sheet
 4. Create Dynamic Dashboard based on the Povit Table
 

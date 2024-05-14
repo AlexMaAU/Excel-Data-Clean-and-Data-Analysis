@@ -16,6 +16,7 @@ Key Findings:
 - Single individuals with a bachelor's degree or higher education, typically with higher average income, also show a strong desire for bike purchases, particularly in households with three or more children, likely for similar reasons of purchasing for their children.
 - Based on the analysis, it can be concluded that the ideal target demographic for bike marketing comprises individuals with lower incomes and those with children, as they are more willing to purchase bikes for themselves or their children to meet commuting needs.
 
+
 ![Bike Sales Dashboard Demo](https://github.com/AlexMaAU/Excel-Data-Clean-and-Data-Analysis/assets/130563062/de32f858-50c1-444e-9672-4ee272d4dcbd)
 
 ![Bike Sales Dashboard Demo2](https://github.com/AlexMaAU/Excel-Data-Clean-and-Data-Analysis/assets/130563062/74a9560e-912f-4cef-b977-be6ff0eff021)
